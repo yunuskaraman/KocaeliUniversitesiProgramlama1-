@@ -1,0 +1,10 @@
+C:\Users\YunusKARAMAN\source\repos\Kart\Kart\obj\Debug\Kart.csprojAssemblyReference.cache
+C:\Users\YunusKARAMAN\source\repos\Kart\Kart\obj\Debug\Kart.Form1.resources
+C:\Users\YunusKARAMAN\source\repos\Kart\Kart\obj\Debug\Kart.Properties.Resources.resources
+C:\Users\YunusKARAMAN\source\repos\Kart\Kart\obj\Debug\Kart.csproj.GenerateResource.cache
+C:\Users\YunusKARAMAN\source\repos\Kart\Kart\obj\Debug\Kart.csproj.CoreCompileInputs.cache
+C:\Users\YunusKARAMAN\source\repos\Kart\Kart\bin\Debug\Kart.exe.config
+C:\Users\YunusKARAMAN\source\repos\Kart\Kart\bin\Debug\Kart.exe
+C:\Users\YunusKARAMAN\source\repos\Kart\Kart\bin\Debug\Kart.pdb
+C:\Users\YunusKARAMAN\source\repos\Kart\Kart\obj\Debug\Kart.exe
+C:\Users\YunusKARAMAN\source\repos\Kart\Kart\obj\Debug\Kart.pdb
